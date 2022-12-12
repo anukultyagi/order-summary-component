@@ -24,7 +24,8 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
-![screencapture-127-0-0-1-5500-index-html-2022-02-20-17_16_01](https://user-images.githubusercontent.com/79658534/154849674-75d5354b-e05d-4c3c-9505-c83d7cfb0086.png)
+![image](https://user-images.githubusercontent.com/74818876/207127905-bceee8f1-c722-4826-be70-ff6e871219c4.png)
+
 
 
 ### Links
@@ -40,8 +41,8 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
+- React UI
 
 ## Author
 
-- Frontend Mentor - [@virag-ky](https://www.frontendmentor.io/profile/virag-ky)
-- Twitter - [@Virag_Ky](https://www.twitter.com/Virag_Ky)
+- Linkedin - [Anukul Tyagi](https://www.linkedin.com/in/tyagi-anukul)
